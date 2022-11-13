@@ -1,3 +1,3 @@
 # Movie-Ticket-Capstone
 
-Online Movie Ticket Booking Application developed wituisngh Spring Boot and React.
+Online Movie Ticket Booking Application developed using Spring Boot and React.
